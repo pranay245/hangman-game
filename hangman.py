@@ -135,7 +135,7 @@ while(correct!=len(word) and lives>0):
             print(f)
             print()            
         elif lives==0:
-            a="|"+"  "+"  x "
+            #a="|"+"  "+"  x "
             print("game over")
             print(a)
             print("|"+"  "+"  x ");
